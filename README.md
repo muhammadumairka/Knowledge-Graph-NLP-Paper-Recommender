@@ -18,7 +18,6 @@ This project was developed to explore practical applications of:
 * NLP-based Semantic Search
 * Graph Machine Learning concepts
 
----
 
 # Key Features
 
