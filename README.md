@@ -40,7 +40,7 @@ This project was developed to explore practical applications of:
 | Scikit-learn          | Similarity computation          |
 | Pandas                | Data handling                   |
 
----
+
 
 # System Architecture
 
@@ -90,7 +90,7 @@ This project was developed to explore practical applications of:
 +------------------------------+
 ```
 
----
+
 
 # Repository Structure
 
@@ -103,7 +103,7 @@ Knowledge-Graph-NLP-Paper-Recommender/
 └── README.md
 ```
 
----
+
 
 # Installation Instructions
 
@@ -114,7 +114,6 @@ git clone https://github.com/muhammadumairka/Knowledge-Graph-NLP-Paper-Recommend
 cd Knowledge-Graph-NLP-Paper-Recommender
 ```
 
----
 
 ## 2. Create Virtual Environment (Optional but Recommended)
 
@@ -132,7 +131,6 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
----
 
 ## 3. Install Dependencies
 
@@ -140,7 +138,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
----
 
 ## 4. Run the Project
 
@@ -148,7 +145,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
----
 
 # Sample Input
 
@@ -157,7 +153,6 @@ Enter research topic:
 Machine learning in healthcare
 ```
 
----
 
 # Sample Output
 
@@ -169,7 +164,6 @@ Top Recommendations:
 3. Natural Language Processing Advances
 ```
 
----
 
 # Methodology
 
@@ -183,7 +177,6 @@ The recommendation workflow follows these stages:
 6. Semantic similarity and graph ranking scores are combined.
 7. Top-ranked papers are returned as recommendations.
 
----
 
 # Research Motivation
 
@@ -198,7 +191,6 @@ This project explores how:
 
 can be integrated into intelligent research-support systems.
 
----
 
 # Future Work
 
@@ -212,7 +204,6 @@ Planned improvements include:
 * Citation prediction and trend analysis
 * Retrieval-Augmented Generation (RAG) integration
 
----
 
 # Author
 
