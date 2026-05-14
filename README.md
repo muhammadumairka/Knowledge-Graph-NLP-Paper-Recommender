@@ -29,7 +29,7 @@ This project was developed to explore practical applications of:
 * Research-oriented AI pipeline
 * Lightweight and easy to extend
 
----
+
 
 # Technologies Used
 
