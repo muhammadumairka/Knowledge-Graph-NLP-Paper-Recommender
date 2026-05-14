@@ -1,6 +1,6 @@
 # Knowledge Graph + NLP Paper Recommender
 
-## 📌 Overview
+##  Overview
 This project implements a hybrid AI system combining:
 - Natural Language Processing (Sentence Transformers)
 - Knowledge Graphs (NetworkX)
@@ -10,7 +10,7 @@ The system recommends research papers based on semantic similarity and graph str
 
 ---
 
-## ⚙️ Technologies Used
+##  Technologies Used
 - Python
 - Sentence-Transformers (BERT embeddings)
 - NetworkX (Graph modeling)
@@ -18,14 +18,14 @@ The system recommends research papers based on semantic similarity and graph str
 
 ---
 
-## 🚀 Features
+##  Features
 - Semantic similarity-based recommendation
 - Graph-based ranking using PageRank
 - Hybrid scoring system (NLP + Graph ML)
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 pip install -r requirements.txt
