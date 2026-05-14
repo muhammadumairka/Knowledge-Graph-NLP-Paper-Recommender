@@ -18,6 +18,7 @@ This project was developed to explore practical applications of:
 * NLP-based Semantic Search
 * Graph Machine Learning concepts
 
+---
 
 # Key Features
 
@@ -28,7 +29,7 @@ This project was developed to explore practical applications of:
 * Research-oriented AI pipeline
 * Lightweight and easy to extend
 
-
+---
 
 # Technologies Used
 
@@ -40,7 +41,7 @@ This project was developed to explore practical applications of:
 | Scikit-learn          | Similarity computation          |
 | Pandas                | Data handling                   |
 
-
+---
 
 # System Architecture
 
@@ -88,8 +89,9 @@ This project was developed to explore practical applications of:
 +------------------------------+
 | Top Relevant Papers          |
 +------------------------------+
+```
 
-
+---
 
 # Repository Structure
 
@@ -100,8 +102,9 @@ Knowledge-Graph-NLP-Paper-Recommender/
 ├── data.csv
 ├── requirements.txt
 └── README.md
+```
 
-
+---
 
 # Installation Instructions
 
@@ -110,7 +113,9 @@ Knowledge-Graph-NLP-Paper-Recommender/
 ```bash
 git clone https://github.com/muhammadumairka/Knowledge-Graph-NLP-Paper-Recommender.git
 cd Knowledge-Graph-NLP-Paper-Recommender
+```
 
+---
 
 ## 2. Create Virtual Environment (Optional but Recommended)
 
@@ -119,32 +124,41 @@ cd Knowledge-Graph-NLP-Paper-Recommender
 ```bash
 python -m venv venv
 venv\Scripts\activate
+```
 
 ### Linux / Mac
 
 ```bash
 python3 -m venv venv
 source venv/bin/activate
+```
 
+---
 
 ## 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
+---
 
 ## 4. Run the Project
 
 ```bash
 python main.py
+```
 
+---
 
 # Sample Input
 
 ```text
 Enter research topic:
 Machine learning in healthcare
+```
 
+---
 
 # Sample Output
 
@@ -154,7 +168,9 @@ Top Recommendations:
 1. Machine Learning for Healthcare
 2. AI in Education
 3. Natural Language Processing Advances
+```
 
+---
 
 # Methodology
 
@@ -168,6 +184,7 @@ The recommendation workflow follows these stages:
 6. Semantic similarity and graph ranking scores are combined.
 7. Top-ranked papers are returned as recommendations.
 
+---
 
 # Research Motivation
 
@@ -182,6 +199,7 @@ This project explores how:
 
 can be integrated into intelligent research-support systems.
 
+---
 
 # Future Work
 
@@ -195,6 +213,7 @@ Planned improvements include:
 * Citation prediction and trend analysis
 * Retrieval-Augmented Generation (RAG) integration
 
+---
 
 # Author
 
