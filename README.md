@@ -88,7 +88,6 @@ This project was developed to explore practical applications of:
 +------------------------------+
 | Top Relevant Papers          |
 +------------------------------+
-```
 
 
 
@@ -101,7 +100,6 @@ Knowledge-Graph-NLP-Paper-Recommender/
 ├── data.csv
 ├── requirements.txt
 └── README.md
-```
 
 
 
@@ -112,7 +110,6 @@ Knowledge-Graph-NLP-Paper-Recommender/
 ```bash
 git clone https://github.com/muhammadumairka/Knowledge-Graph-NLP-Paper-Recommender.git
 cd Knowledge-Graph-NLP-Paper-Recommender
-```
 
 
 ## 2. Create Virtual Environment (Optional but Recommended)
@@ -122,28 +119,24 @@ cd Knowledge-Graph-NLP-Paper-Recommender
 ```bash
 python -m venv venv
 venv\Scripts\activate
-```
 
 ### Linux / Mac
 
 ```bash
 python3 -m venv venv
 source venv/bin/activate
-```
 
 
 ## 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
-```
 
 
 ## 4. Run the Project
 
 ```bash
 python main.py
-```
 
 
 # Sample Input
@@ -151,7 +144,6 @@ python main.py
 ```text
 Enter research topic:
 Machine learning in healthcare
-```
 
 
 # Sample Output
@@ -162,7 +154,6 @@ Top Recommendations:
 1. Machine Learning for Healthcare
 2. AI in Education
 3. Natural Language Processing Advances
-```
 
 
 # Methodology
