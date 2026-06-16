@@ -2,3 +2,4 @@ pandas
 networkx
 scikit-learn
 sentence-transformers
+arxiv
