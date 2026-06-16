@@ -162,6 +162,18 @@ can be integrated into intelligent research-support systems.
 
 ---
 
+# Research Contribution
+
+This project demonstrates how semantic embeddings and graph-based ranking can be integrated into a unified recommendation framework for scientific literature discovery.
+
+The work builds upon the author's research interests in:
+- Knowledge Graphs
+- Scientific Literature Analysis
+- Information Retrieval
+- Natural Language Processing
+
+---
+
 # Future Work
 
 Planned improvements include:
