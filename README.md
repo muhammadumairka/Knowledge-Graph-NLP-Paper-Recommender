@@ -49,7 +49,12 @@ This project was developed to explore practical applications of:
 ```
 
 ---
+## Expected Output
 
+![Expected Output](images/expected-output.png)
+
+
+---
 # Repository Structure
 
 ```text
