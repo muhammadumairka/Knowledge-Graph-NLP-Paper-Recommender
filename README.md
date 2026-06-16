@@ -45,50 +45,7 @@ This project was developed to explore practical applications of:
 
 # System Architecture
 
-```text
-+--------------------+
-| Research Papers    |
-| (CSV Dataset)      |
-+----------+---------+
-           |
-           v
-+--------------------+
-| Text Preprocessing |
-+----------+---------+
-           |
-           v
-+------------------------------+
-| Sentence Transformer Model   |
-| (Semantic Embeddings)        |
-+----------+-------------------+
-           |
-           v
-+------------------------------+
-| Similarity Computation       |
-| (Cosine Similarity)          |
-+----------+-------------------+
-           |
-           v
-+------------------------------+
-| Knowledge Graph Construction |
-| (NetworkX)                   |
-+----------+-------------------+
-           |
-           v
-+------------------------------+
-| Graph Ranking Algorithms     |
-| (PageRank / Centrality)      |
-+----------+-------------------+
-           |
-           v
-+------------------------------+
-| Recommendation Engine        |
-+----------+-------------------+
-           |
-           v
-+------------------------------+
-| Top Relevant Papers          |
-+------------------------------+
+![Architecture](images/architecture.png)
 ```
 
 ---
