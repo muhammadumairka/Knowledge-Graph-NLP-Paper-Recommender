@@ -46,7 +46,6 @@ This project was developed to explore practical applications of:
 # System Architecture
 
 ![Architecture](images/architecture.png)
-```
 
 ---
 # Expected Output
