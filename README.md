@@ -49,9 +49,9 @@ This project was developed to explore practical applications of:
 ```
 
 ---
-## Expected Output
+# Expected Output
 
-![Expected Output](images/expected-output.png)
+![Expected Output](images/output.png)
 
 
 ---
